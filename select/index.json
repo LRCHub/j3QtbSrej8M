@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Past Won't Leave My Bed",
+  "base_artist": "Joji",
+  "createdAt": "2026-01-14T07:55:20.888423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Past Won't Leave My Bed",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/01_Past_Won't_Leave_My_Bed_Song.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Past Won't Leave My Bed",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/02_Past_Won't_Leave_My_Bed_Joji.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Past Won't Leave My Bed",
+      "artist": "Song, Joji",
+      "has_synced": true,
+      "path": "select/03_Past_Won't_Leave_My_Bed_Song,_Joji.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Past Won’t Leave My Bed - Joji [Lyrics - Vietsub]",
+      "artist": "Ferbify",
+      "has_synced": true,
+      "path": "select/04_Past_Won’t_Leave_My_Bed_-_Joji_[Lyrics_-_Vietsub]_Ferbify.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Joji - Past Won't Leave My Bed (Official Video)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/05_Joji_-_Past_Won't_Leave_My_Bed_(Official_Video)_Joji.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Past Won't Leave My Bed (Paused)",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/06_Past_Won't_Leave_My_Bed_(Paused)_Joji.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Past Won't Leave My Bed",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Past_Won't_Leave_My_Bed_Joji.txt"
+    }
+  ]
+}
